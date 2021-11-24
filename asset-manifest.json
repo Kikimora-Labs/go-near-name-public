@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/go-near-name-pages/static/js/main.9b5c064a.chunk.js",
+    "main.js.map": "/go-near-name-pages/static/js/main.9b5c064a.chunk.js.map",
+    "runtime-main.js": "/go-near-name-pages/static/js/runtime-main.1b3c6a8b.js",
+    "runtime-main.js.map": "/go-near-name-pages/static/js/runtime-main.1b3c6a8b.js.map",
+    "static/js/2.37575092.chunk.js": "/go-near-name-pages/static/js/2.37575092.chunk.js",
+    "static/js/2.37575092.chunk.js.map": "/go-near-name-pages/static/js/2.37575092.chunk.js.map",
+    "index.html": "/go-near-name-pages/index.html",
+    "static/js/2.37575092.chunk.js.LICENSE.txt": "/go-near-name-pages/static/js/2.37575092.chunk.js.LICENSE.txt",
+    "static/media/bag.f48cff1f.png": "/go-near-name-pages/static/media/bag.f48cff1f.png",
+    "static/media/bag_min.c1ae27f8.png": "/go-near-name-pages/static/media/bag_min.c1ae27f8.png",
+    "static/media/coin.dddefd07.png": "/go-near-name-pages/static/media/coin.dddefd07.png",
+    "static/media/coin_min.d0a77f11.png": "/go-near-name-pages/static/media/coin_min.d0a77f11.png",
+    "static/media/cup.b5240921.png": "/go-near-name-pages/static/media/cup.b5240921.png",
+    "static/media/cup_min.0b1e9e65.png": "/go-near-name-pages/static/media/cup_min.0b1e9e65.png",
+    "static/media/light.ee9171de.svg": "/go-near-name-pages/static/media/light.ee9171de.svg",
+    "static/media/offer.9fe0510c.png": "/go-near-name-pages/static/media/offer.9fe0510c.png",
+    "static/media/rules.c4a5a8a3.png": "/go-near-name-pages/static/media/rules.c4a5a8a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3c6a8b.js",
+    "static/js/2.37575092.chunk.js",
+    "static/js/main.9b5c064a.chunk.js"
+  ]
+}
