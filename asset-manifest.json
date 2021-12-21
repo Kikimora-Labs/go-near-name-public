@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.502122ee.chunk.js",
-    "main.js.map": "/static/js/main.502122ee.chunk.js.map",
+    "main.js": "/static/js/main.e2bba40a.chunk.js",
+    "main.js.map": "/static/js/main.e2bba40a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fe88f864.js",
     "runtime-main.js.map": "/static/js/runtime-main.fe88f864.js.map",
-    "static/js/2.ef837513.chunk.js": "/static/js/2.ef837513.chunk.js",
-    "static/js/2.ef837513.chunk.js.map": "/static/js/2.ef837513.chunk.js.map",
+    "static/js/2.5727188d.chunk.js": "/static/js/2.5727188d.chunk.js",
+    "static/js/2.5727188d.chunk.js.map": "/static/js/2.5727188d.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.ef837513.chunk.js.LICENSE.txt": "/static/js/2.ef837513.chunk.js.LICENSE.txt",
+    "static/js/2.5727188d.chunk.js.LICENSE.txt": "/static/js/2.5727188d.chunk.js.LICENSE.txt",
     "static/media/bag.f48cff1f.png": "/static/media/bag.f48cff1f.png",
     "static/media/bag_min.c1ae27f8.png": "/static/media/bag_min.c1ae27f8.png",
     "static/media/coin.dddefd07.png": "/static/media/coin.dddefd07.png",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fe88f864.js",
-    "static/js/2.ef837513.chunk.js",
-    "static/js/main.502122ee.chunk.js"
+    "static/js/2.5727188d.chunk.js",
+    "static/js/main.e2bba40a.chunk.js"
   ]
 }
